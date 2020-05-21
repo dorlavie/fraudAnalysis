@@ -5,7 +5,7 @@ This is my solution to a fraud challenge
 ## Content of Project
 
 In this project you will find:
-* dorLavi-SupervisedChallenge.html - my notebook with all my research, and model build.
+* supervisedChallenge.ipynb - my notebook with all my research, and model build.
     * The raw json file (raw data) is required to run this notebook, however I don't include it in the project due to confidentiality.
 * some pickle file - they are needed for the API to run, all of them are generated in the notbook
     * log_reg_model_v1.pickle - The trained model, logistic regression
